@@ -1,1 +1,1 @@
-# Simple-Game
+Simple-Game in Java and OOP
